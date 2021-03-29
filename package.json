@@ -42,7 +42,7 @@
   "devDependencies": {
     "@adeira/babel-preset-adeira": "^2.0.1",
     "@babel/cli": "^7.12.8",
-    "@babel/core": "^7.12.10",
+    "@babel/core": "^7.13.13",
     "@babel/generator": "^7.12.1",
     "@babel/node": "^7.12.1",
     "@babel/runtime": "^7.11.2",
